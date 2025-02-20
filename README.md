@@ -1,4 +1,4 @@
-## Ola! Eu sou Tawan Silva👋😊
+## Olá! Eu sou Tawan Silva👋😊
 
 - 💻 Hoje eu trabalho como desenvolvedor Full-stack e .NET
 - 🌱 Estudando: Next, Tailwind e Python
