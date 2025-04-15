@@ -1,7 +1,7 @@
 ## Olá! Eu sou Tawan Silva👋😊
 
 - 💻 Hoje eu trabalho como desenvolvedor Full-stack e .NET
-- 🌱 Estudando: Next, Tailwind e Python
+- 🌱 Estudando muitas coisas: Clean Architecture (.NET), Angular 19, Vue, Tailwind, Python e Flutter.
 
 ## Status
 <div>
@@ -19,7 +19,7 @@
   <img style="height: 3em; width: 3em;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
   <img style="height: 3em; width: 3em;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
   <img style="height: 3em; width: 3em;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />
-    <img style="height: 3em; width: 3em;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
+  <img style="height: 3em; width: 3em;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
   <img style="height: 3em; width: 3em;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
   <img style="height: 3em; width: 3em;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
   <img style="height: 3em; width: 3em;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/adonisjs/adonisjs-original-wordmark.svg" />
