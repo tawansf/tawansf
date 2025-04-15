@@ -1,7 +1,7 @@
 ## Olá! Eu sou Tawan Silva👋😊
 
 - 💻 Hoje eu trabalho como desenvolvedor Full-stack e .NET
-- 🌱 Estudando muitas coisas: Clean Architecture (.NET), Angular 19, Vue, Tailwind, Python e Flutter.
+- 🌱 Estudando muitas coisas: Clean Architecture (.NET), .NET9, MLNET, Angular 19, Vue, Tailwind, Python & ML, e Flutter.
 
 ## Status
 <div>
