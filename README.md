@@ -4,8 +4,8 @@
 - 🌱 Estudando muitas coisas: Clean Architecture (.NET), .NET9, MLNET, Angular 19, Vue, Tailwind, Python & ML, e Flutter.
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=tawansf&theme=shadow_green&show_icons=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tawansf&langs_count=5&layout=compact&theme=shadow_green&show_items=true?timestamp=1744946608"/>
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=tawansf&theme=shadow_green&show_icons=true" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tawansf&langs_count=5&layout=compact&theme=shadow_green&show_items=true&timestamp=1744946608" />
 </div>
 
 ## Tecnologias
