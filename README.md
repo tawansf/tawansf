@@ -5,7 +5,7 @@
 
 <div>
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=tawansf&theme=shadow_green&show_icons=true"/>
-  <img height="120em" src=""/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tawansf&langs_count=5&layout=compact&theme=shadow_green&show_items=true?timestamp=1744946608"/>
 </div>
 
 ## Tecnologias
