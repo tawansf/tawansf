@@ -30,6 +30,13 @@
   <img style="height: 32px; width: 32px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-plain.svg" />
 </div>
 
+## Estudando
+<div>
+  <img style="height: 32px; width: 32px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+  <img style="height: 32px; width: 32px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+  <img style="height: 32px; width: 32px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fsharp/fsharp-original.svg" />
+</div>
+
 ## Social
 
 <div style="display: inline-block;">
