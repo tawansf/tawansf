@@ -3,11 +3,6 @@
 - 💻 Hoje eu trabalho como desenvolvedor Full-stack e .NET
 - 🌱 Estudando muitas coisas: Clean Architecture (.NET), .NET9, MLNET, Angular 19, Vue, Tailwind, Python & ML, e Flutter.
 
-<div>
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=tawansf&theme=shadow_green&show_icons=true" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tawansf&langs_count=10&layout=compact&theme=shadow_green&show_items=true" />
-</div>
-
 ## Tecnologias
 <div style="display: inline-block;">
   <img style="height: 32px; width: 32px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
