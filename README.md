@@ -1,9 +1,10 @@
-## Olá! Eu sou Tawan Silva👋
+## Hello! I’m Tawan Silva
 
-- 💻 Hoje eu trabalho como desenvolvedor Full-stack e .NET
-- 🌱 Estudando muitas coisas: Clean Architecture (.NET), .NET9, MLNET, Angular 19, Vue, Tailwind, Python & ML, e Flutter.
+- 💻 I currently work as a Full-stack, .NET, and Data Engineer
+- 📊 I also work with data engineering and data quality
+- 🌱 Studying many things: Clean Architecture (.NET), .NET 9, ML.NET, Angular 20, Tailwind, Python & ML, Flutter, Databricks, Data Quality and others.
 
-## Tecnologias
+## Technologies
 <div style="display: inline-block;">
   <img style="height: 32px; width: 32px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
   <img style="height: 32px; width: 32px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
@@ -25,7 +26,7 @@
   <img style="height: 32px; width: 32px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-plain.svg" />
 </div>
 
-## Estudando
+## Studying
 <div>
   <img style="height: 32px; width: 32px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
   <img style="height: 32px; width: 32px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
