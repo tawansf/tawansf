@@ -14,6 +14,8 @@
   <img style="height: 32px; width: 32px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
   <img style="height: 32px; width: 32px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
   <img style="height: 32px; width: 32px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />
+  <img style="height: 32px; width: 32px;" src="https://devicon-website.vercel.app/api/python/original.svg">
+  <img style="height: 32px; width: 32px;" src="https://devicon-website.vercel.app/api/pytest/original.svg">
   <img style="height: 32px; width: 32px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
   <img style="height: 32px; width: 32px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
   <img style="height: 32px; width: 32px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
@@ -30,7 +32,6 @@
 <div>
   <img style="height: 32px; width: 32px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
   <img style="height: 32px; width: 32px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-  <img style="height: 32px; width: 32px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fsharp/fsharp-original.svg" />
 </div>
 
 ## Social
