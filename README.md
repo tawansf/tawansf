@@ -1,63 +1,94 @@
-## Hello! I’m Tawan Silva
+# 👋 Hi, I'm Tawan Silva
 
-- 💻 I currently work as a Full-stack, .NET, and Data Engineer
-- 📊 I also work with data engineering and data quality
-- 🌱 Studying many things: Clean Architecture (.NET), .NET 9, ML.NET, Angular 20, Tailwind, Python & ML, Flutter, Databricks, Data Quality and others.
+🚀 Full-stack Developer | .NET Engineer | Data Engineer  
 
-## Technologies
-<div style="display: inline-block;">
-  <img style="height: 32px; width: 32px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-  <img style="height: 32px; width: 32px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
-  <img style="height: 32px; width: 32px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg" />        
-  <img style="height: 32px; width: 32px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" />
-  <img style="height: 32px; width: 32px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img style="height: 32px; width: 32px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
-  <img style="height: 32px; width: 32px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
-  <img style="height: 32px; width: 32px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />
-  <img style="height: 32px; width: 32px;" src="https://devicon-website.vercel.app/api/python/original.svg">
-  <img style="height: 32px; width: 32px;" src="https://devicon-website.vercel.app/api/pytest/original.svg">
-  <img style="height: 32px; width: 32px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
-  <img style="height: 32px; width: 32px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-  <img style="height: 32px; width: 32px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
-  <img style="height: 32px; width: 32px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" />
-  <img style="height: 32px; width: 32px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-  <img style="height: 32px; width: 32px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
-  <img style="height: 32px; width: 32px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
-  <img style="height: 32px; width: 32px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain-wordmark.svg" />
-  <img style="height: 32px; width: 32px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-plain-wordmark.svg" />  
-  <img style="height: 32px; width: 32px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-plain.svg" />
-</div>
+I build **software systems, data platforms and developer tools** focused on **architecture, performance and data quality**.
 
-## Studying
-<div>
-  <img style="height: 32px; width: 32px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-  <img style="height: 32px; width: 32px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-</div>
+- 💻 Backend development with **.NET**
+- 📊 Data Engineering & Data Quality
+- ⚙️ Building frameworks and developer tools
+- 🧠 Interested in **Clean Architecture, scalable systems and data platforms**
 
-## Social
+---
 
-<div style="display: inline-block;">
-  <a href="https://www.tiktok.com/@programacao_na_pratica"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" style="height: 25px;"><a>
-  <a href="https://www.youtube.com/@programacao_na_pratica"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" style="height: 25px;"><a>
-  <a href="https://www.instagram.com/programacao.na_pratica/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="height: 25px;"><a>
-</div>
+# ⚡ Tech Stack
 
+### Backend
+<p>
+<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
+<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"/>
+<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
+</p>
 
+### Frontend
+<p>
+<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg"/>
+<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"/>
+</p>
 
+### Data & Cloud
+<p>
+<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
+<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg"/>
+</p>
 
+### Mobile
+<p>
+<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
+<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/>
+</p>
 
+---
 
+# 📚 Currently Studying
 
+<p>
+<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
+</p>
 
+- Systems programming
+- Performance and low-level concepts
+- Advanced architecture
 
+---
 
+# 📊 GitHub Stats
 
+<p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=tawansf&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tawansf&layout=compact&theme=tokyonight"/>
+</p>
 
+---
 
+# 🌎 Content Creator
 
+I also create programming content through **Programação na Prática**.
 
+<p>
 
+<a href="https://www.tiktok.com/@programacao_na_pratica">
+<img src="https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=tiktok">
+</a>
 
+<a href="https://www.youtube.com/@programacao_na_pratica">
+<img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube">
+</a>
 
+<a href="https://www.instagram.com/programacao.na_pratica/">
+<img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram">
+</a>
 
+</p>
 
+---
+
+⭐ I enjoy building **frameworks, developer tools and data platforms**.
